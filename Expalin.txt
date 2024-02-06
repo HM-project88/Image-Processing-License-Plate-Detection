@@ -1,0 +1,7 @@
+This program use for detecting Iranian car plate number which includes two parts:
+1- Training: For running you should run the "Program_Train.m" and the data 
+which uses for training is inside the Image "Input.jpg". This Image has all 
+characters which use in Iranian car plate number.
+2- Testing: For running you should run the "Program.m" and the result will show. 
+I used an Image which is called "Image1.jpg" for testing the program.
+An artificial neural network was used for detecting the car plate number.
